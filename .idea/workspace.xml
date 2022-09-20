@@ -1,14 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="293c06d1-f004-43d2-b9b0-ec99bbb7264d" name="Changes" comment="" />
+    <list default="true" id="293c06d1-f004-43d2-b9b0-ec99bbb7264d" name="Changes" comment="GB Core Lesson 4">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/Task1/AppRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/Task2/AppRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/Task2/Phonebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gbJavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gbJavaCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Athletes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Athletes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/AppRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/AppRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/CheckException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/CheckException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/MyArrayDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task1/RunSwapArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task1/RunSwapArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task1/SwapElementsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task1/SwapElementsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task2/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task2/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task2/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task2/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task2/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task2/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task2/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task2/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/task2/RunApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/task2/RunApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lasson_4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="architeckto" />
+        <option name="repository" value="gbJavaCore" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2EFRsCH0i7npvm0JqifgGbfZ0Xx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,10 +79,95 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/poul/IdeaProjects/gbJavaCore/gbJavaCore/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson3.task2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppRun">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.App" />
+      <module name="gbJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.AppRun" />
+      <module name="gbJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4.Task1.AppRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Task1.AppRun" />
+      <module name="gbJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="gbJavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunSwapArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.task1.RunSwapArray" />
+      <module name="gbJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppRun" />
+        <item itemvalue="Application.RunSwapArray" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lesson4.Task1.AppRun" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +177,42 @@
       <option name="presentableId" value="Default" />
       <updated>1662189549686</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create project">
+      <created>1662189598100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662189598100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GB Core Lesson 1">
+      <created>1662607329204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662607329204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GB Core Lesson 2">
+      <created>1662648933887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662648933887</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GB Core Lesson 3">
+      <created>1662991277512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662991277512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="GB Core Lesson 4">
+      <created>1663502213042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663502213042</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +225,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project" />
+    <MESSAGE value="GB Core Lesson 1" />
+    <MESSAGE value="GB Core Lesson 2" />
+    <MESSAGE value="GB Core Lesson 3" />
+    <MESSAGE value="GB Core Lesson 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="GB Core Lesson 4" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
