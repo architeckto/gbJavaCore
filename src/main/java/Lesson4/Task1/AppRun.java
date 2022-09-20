@@ -1,4 +1,4 @@
-package main.java.Lesson4.Task1;
+package Lesson4.Task1;
 
 import java.util.*;
 
@@ -16,14 +16,13 @@ public class AppRun {
         }
 
 
-
         System.out.println(Arrays.toString(arrayStr));
         System.out.println("All string count: " + arrayStrList.size() + "\n");
 
 
-        HashMap<String,Integer> result = new HashMap<>();
-        for(String str: arrayStrList){
-            result.put(str,count(str));
+        HashMap<String, Integer> result = new HashMap<>();
+        for (String str : arrayStrList) {
+            result.put(str, count(str));
         }
         System.out.println("Number of repetitions: \n" + result + "\n");
         Set<String> uniqueStr = new HashSet<>(arrayStrList);
@@ -32,10 +31,10 @@ public class AppRun {
 
     }
 
-    public static Integer count(String str){
+    public static Integer count(String str) {
         Integer result = 0;
-        for(String strThis : arrayStrList){
-            if(strThis.equals(str)) result++;
+        for (String strThis : arrayStrList) {
+            if (strThis.equals(str)) result++;
         }
         return result;
     }

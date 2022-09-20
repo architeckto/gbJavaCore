@@ -1,4 +1,4 @@
-package main.java.Lesson1;
+package Lesson1;
 
 public class Runner extends Athletes{
     int run;
