@@ -1,4 +1,4 @@
-package Lesson1;
+package main.java.Lesson1;
 
 public class Team{
 

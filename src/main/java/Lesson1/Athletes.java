@@ -1,4 +1,4 @@
-package Lesson1;
+package main.java.Lesson1;
 
 public abstract class Athletes {
     private final String name;

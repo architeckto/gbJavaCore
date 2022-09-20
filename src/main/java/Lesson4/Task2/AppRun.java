@@ -1,4 +1,4 @@
-package Lesson4.Task2;
+package main.java.Lesson4.Task2;
 
 public class AppRun {
 
